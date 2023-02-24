@@ -1,0 +1,4 @@
+C:\GitHub\IntegrationCore\WinTestSMSApp\obj\Debug\WinTestSMSApp.csproj.AssemblyReference.cache
+C:\GitHub\IntegrationCore\WinTestSMSApp\obj\Debug\WinTestSMSApp.csproj.CoreCompileInputs.cache
+C:\GitHub\IntegrationCore\WinTestSMSApp\obj\Debug\WinTestSMSApp.exe
+C:\GitHub\IntegrationCore\WinTestSMSApp\obj\Debug\WinTestSMSApp.pdb

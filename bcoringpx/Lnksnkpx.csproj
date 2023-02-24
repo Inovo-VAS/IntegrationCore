@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject></StartupObject>
+    <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
+    <IncludeSymbolsInSingleFile>true</IncludeSymbolsInSingleFile>
+    <AssemblyName>Lnksnkpx</AssemblyName>
+    <RootNamespace>Lnksnkpx</RootNamespace>
+    <UserSecretsId>d1ae7e59-5e10-4f48-90ba-337f7e055c54</UserSecretsId>
+    <!--<OutputType>Exe</OutputType>
+    <PublishTrimmed>true</PublishTrimmed>
+    <PublishSingleFile>true</PublishSingleFile>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <TrimMode>link</TrimMode>
+    <SuppressTrimAnalysisWarnings>false</SuppressTrimAnalysisWarnings>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bcore\Lnksnk.csproj" />
+  </ItemGroup>
+
+</Project>

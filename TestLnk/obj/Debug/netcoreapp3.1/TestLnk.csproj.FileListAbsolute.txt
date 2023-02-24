@@ -1,0 +1,16 @@
+D:\mystuff\dotnetcore\bcoring\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.AssemblyInfoInputs.cache
+D:\mystuff\dotnetcore\bcoring\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.AssemblyInfo.cs
+D:\mystuff\dotnetcore\bcoring\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.csproj.CoreCompileInputs.cache
+C:\GitHub\IntegrationCore\TestLnk\bin\Debug\netcoreapp3.1\TestLnk.deps.json
+C:\GitHub\IntegrationCore\TestLnk\bin\Debug\netcoreapp3.1\TestLnk.dll
+C:\GitHub\IntegrationCore\TestLnk\bin\Debug\netcoreapp3.1\TestLnk.pdb
+C:\GitHub\IntegrationCore\TestLnk\bin\Debug\netcoreapp3.1\Lnksnk.dll
+C:\GitHub\IntegrationCore\TestLnk\bin\Debug\netcoreapp3.1\Lnksnk.pdb
+C:\GitHub\IntegrationCore\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.csproj.AssemblyReference.cache
+C:\GitHub\IntegrationCore\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\IntegrationCore\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.AssemblyInfoInputs.cache
+C:\GitHub\IntegrationCore\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.AssemblyInfo.cs
+C:\GitHub\IntegrationCore\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.csproj.CoreCompileInputs.cache
+C:\GitHub\IntegrationCore\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.csproj.CopyComplete
+C:\GitHub\IntegrationCore\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.dll
+C:\GitHub\IntegrationCore\TestLnk\obj\Debug\netcoreapp3.1\TestLnk.pdb

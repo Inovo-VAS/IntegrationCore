@@ -1,0 +1,9 @@
+I:ENV Root:D:/mystuff/dotnetcore/bcoring/bcoringpx/bin/Debug/netcoreapp3.1/
+I:Loading:/Lnksnkpx.conf.js
+I:RegisterDbConnection:eptpui
+I:RegisterDbConnection:registered->eptpui
+I:RegisterDbConnection:eptpuiremote
+I:RegisterDbConnection:registered->eptpuiremote
+I:RegisterDbConnection:ptp
+I:RegisterDbConnection:registered->ptp
+I:Loaded:/Lnksnkpx.conf.js

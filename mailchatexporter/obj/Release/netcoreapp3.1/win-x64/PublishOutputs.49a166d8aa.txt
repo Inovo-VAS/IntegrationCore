@@ -1,0 +1,3 @@
+D:\projects\inovo\dotnetcore\mailchatexporter\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.Development.json
+D:\projects\inovo\dotnetcore\mailchatexporter\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.json
+D:\projects\inovo\dotnetcore\mailchatexporter\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\mailchatexporter.exe

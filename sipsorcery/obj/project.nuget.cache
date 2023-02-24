@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Fg+XH4cYNKie9ae7RRD+ZCq4kinFySMFXvw03FhmcYHoZsHCZwMlmldE7S2lYl/RwPWJGjNA1pBTLSTR815Cw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\IntegrationCore\\sipsorcery\\sipsorcery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\bouncycastle.netcore\\1.8.6\\bouncycastle.netcore.1.8.6.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\bouncycastle.netcoresdk\\1.9.3.1\\bouncycastle.netcoresdk.1.9.3.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\dnsclient\\1.4.0-beta-20200801.7\\dnsclient.1.4.0-beta-20200801.7.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.7.20364.11\\microsoft.extensions.dependencyinjection.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.7.20364.11\\microsoft.extensions.logging.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.logging.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.7.20364.11\\microsoft.extensions.options.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.7.20364.11\\microsoft.extensions.primitives.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sipsorcery.websocketsharp\\0.0.1\\sipsorcery.websocketsharp.0.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.7.20364.11\\system.diagnostics.diagnosticsource.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.7.20364.11\\system.runtime.compilerservices.unsafe.5.0.0-preview.7.20364.11.nupkg.sha512"
+  ],
+  "logs": []
+}

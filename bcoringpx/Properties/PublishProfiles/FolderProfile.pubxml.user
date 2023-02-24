@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\mystuff\dotnetcore\bcoring\bcoringpx\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/25/2020 15:19:40</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/25/2020 15:19:40</publishTime>
+    </File>
+    <File Include="bcoringpx.exe">
+      <publishTime>07/30/2020 14:55:59</publishTime>
+    </File>
+    <File Include="bcoringpx.pdb">
+      <publishTime>07/30/2020 14:55:17</publishTime>
+    </File>
+    <File Include="Lnksnkpx.exe">
+      <publishTime>10/19/2020 08:39:18</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/19/2020 08:39:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHub\\IntegrationCore\\sipsorcery\\sipsorcery.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub\\IntegrationCore\\sipsorcery\\sipsorcery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\IntegrationCore\\sipsorcery\\sipsorcery.csproj",
+        "projectName": "sipsorcery",
+        "projectPath": "C:\\GitHub\\IntegrationCore\\sipsorcery\\sipsorcery.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\IntegrationCore\\sipsorcery\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.stride3d.net/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BouncyCastle.NetCore": {
+              "target": "Package",
+              "version": "[1.8.6, )"
+            },
+            "BouncyCastle.NetCoreSdk": {
+              "target": "Package",
+              "version": "[1.9.3.1, )"
+            },
+            "DnsClient": {
+              "target": "Package",
+              "version": "[1.4.0-beta-20200801.7, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20364.11, )"
+            },
+            "SIPSorcery.WebSocketSharp": {
+              "target": "Package",
+              "version": "[0.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

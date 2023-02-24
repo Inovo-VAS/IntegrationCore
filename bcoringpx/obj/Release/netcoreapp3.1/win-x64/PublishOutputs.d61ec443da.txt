@@ -1,0 +1,3 @@
+D:\mystuff\dotnetcore\bcoring\bcoringpx\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.Development.json
+D:\mystuff\dotnetcore\bcoring\bcoringpx\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.json
+D:\mystuff\dotnetcore\bcoring\bcoringpx\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Lnksnkpx.exe

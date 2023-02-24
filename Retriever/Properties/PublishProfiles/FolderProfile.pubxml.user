@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\mystuff\dotnetcore\bcoring\Retriever\bin\app.publish\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Retriever.dll">
+      <publishTime>06/03/2020 09:07:58</publishTime>
+    </File>
+    <File Include="bin/Retriever.pdb">
+      <publishTime>06/03/2020 09:07:58</publishTime>
+    </File>
+    <File Include="RetrieveHandler.ashx">
+      <publishTime>06/02/2020 16:35:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/03/2020 08:40:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

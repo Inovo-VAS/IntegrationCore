@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Smpp.Net.Lib
+build_property.ProjectDir = C:\projects\inovo\IntegrationCore\JamaaTech.SMPP.Net.Lib\

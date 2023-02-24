@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
+    <IncludeSymbolsInSingleFile>true</IncludeSymbolsInSingleFile>
+    <AssemblyName>shortlinksengine</AssemblyName>
+    <RootNamespace>shortlinksengine</RootNamespace>
+    <UserSecretsId>0d02b468-0b7d-416f-af52-c2809fa12cc6</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bcore\Lnksnk.csproj" />
+  </ItemGroup>
+
+</Project>

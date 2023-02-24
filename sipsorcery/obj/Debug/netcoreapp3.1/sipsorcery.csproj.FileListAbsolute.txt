@@ -1,0 +1,11 @@
+C:\GitHub\IntegrationCore\sipsorcery\bin\Debug\netcoreapp3.1\sipsorcery.deps.json
+C:\GitHub\IntegrationCore\sipsorcery\bin\Debug\netcoreapp3.1\sipsorcery.dll
+C:\GitHub\IntegrationCore\sipsorcery\bin\Debug\netcoreapp3.1\sipsorcery.pdb
+C:\GitHub\IntegrationCore\sipsorcery\obj\Debug\netcoreapp3.1\sipsorcery.Core.Properties.Resources.resources
+C:\GitHub\IntegrationCore\sipsorcery\obj\Debug\netcoreapp3.1\sipsorcery.csproj.GenerateResource.cache
+C:\GitHub\IntegrationCore\sipsorcery\obj\Debug\netcoreapp3.1\sipsorcery.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\IntegrationCore\sipsorcery\obj\Debug\netcoreapp3.1\sipsorcery.AssemblyInfoInputs.cache
+C:\GitHub\IntegrationCore\sipsorcery\obj\Debug\netcoreapp3.1\sipsorcery.AssemblyInfo.cs
+C:\GitHub\IntegrationCore\sipsorcery\obj\Debug\netcoreapp3.1\sipsorcery.csproj.CoreCompileInputs.cache
+C:\GitHub\IntegrationCore\sipsorcery\obj\Debug\netcoreapp3.1\sipsorcery.dll
+C:\GitHub\IntegrationCore\sipsorcery\obj\Debug\netcoreapp3.1\sipsorcery.pdb

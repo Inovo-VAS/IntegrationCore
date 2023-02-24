@@ -1,0 +1,9 @@
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\bin\Release\netcoreapp3.1\JamaaTech.Smpp.Net.Lib.deps.json
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\bin\Release\netcoreapp3.1\JamaaTech.Smpp.Net.Lib.dll
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\bin\Release\netcoreapp3.1\JamaaTech.Smpp.Net.Lib.pdb
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\obj\Release\netcoreapp3.1\Smpp.Net.Lib.csprojAssemblyReference.cache
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\obj\Release\netcoreapp3.1\Smpp.Net.Lib.csproj.CoreCompileInputs.cache
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\obj\Release\netcoreapp3.1\Smpp.Net.Lib.AssemblyInfoInputs.cache
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\obj\Release\netcoreapp3.1\Smpp.Net.Lib.AssemblyInfo.cs
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\obj\Release\netcoreapp3.1\JamaaTech.Smpp.Net.Lib.dll
+D:\mystuff\dotnetcore\bcoring\JamaaTech.SMPP.Net.Lib\obj\Release\netcoreapp3.1\JamaaTech.Smpp.Net.Lib.pdb

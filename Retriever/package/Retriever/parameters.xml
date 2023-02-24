@@ -1,0 +1,6 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" defaultValue="Default Web Site/Retriever" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\mystuff\\dotnetcore\\bcoring\\Retriever\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\mystuff\\dotnetcore\\bcoring\\Retriever\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

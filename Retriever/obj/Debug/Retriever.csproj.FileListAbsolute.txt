@@ -1,0 +1,13 @@
+C:\GitHub\IntegrationCore\Retriever\bin\Retriever.dll.config
+C:\GitHub\IntegrationCore\Retriever\bin\Retriever.dll
+C:\GitHub\IntegrationCore\Retriever\bin\Retriever.pdb
+C:\GitHub\IntegrationCore\Retriever\obj\Debug\Retriever.csproj.CoreCompileInputs.cache
+C:\GitHub\IntegrationCore\Retriever\obj\Debug\Retriever.dll
+C:\GitHub\IntegrationCore\Retriever\obj\Debug\Retriever.pdb
+C:\projects\inovo\IntegrationCore\Retriever\bin\Retriever.dll.config
+C:\projects\inovo\IntegrationCore\Retriever\bin\Retriever.dll
+C:\projects\inovo\IntegrationCore\Retriever\bin\Retriever.pdb
+C:\projects\inovo\IntegrationCore\Retriever\obj\Debug\Retriever.csproj.AssemblyReference.cache
+C:\projects\inovo\IntegrationCore\Retriever\obj\Debug\Retriever.csproj.CoreCompileInputs.cache
+C:\projects\inovo\IntegrationCore\Retriever\obj\Debug\Retriever.dll
+C:\projects\inovo\IntegrationCore\Retriever\obj\Debug\Retriever.pdb

@@ -1,0 +1,12 @@
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\bin\Release\netstandard2.0\JamaaTech.Smpp.Net.Client.deps.json
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\bin\Release\netstandard2.0\JamaaTech.Smpp.Net.Client.dll
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\bin\Release\netstandard2.0\JamaaTech.Smpp.Net.Client.pdb
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\bin\Release\netstandard2.0\JamaaTech.Smpp.Net.Lib.dll
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\bin\Release\netstandard2.0\JamaaTech.Smpp.Net.Lib.pdb
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\obj\Release\netstandard2.0\Smpp.Net.Client.csprojAssemblyReference.cache
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\obj\Release\netstandard2.0\Smpp.Net.Client.csproj.CoreCompileInputs.cache
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\obj\Release\netstandard2.0\Smpp.Net.Client.AssemblyInfoInputs.cache
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\obj\Release\netstandard2.0\Smpp.Net.Client.AssemblyInfo.cs
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\obj\Release\netstandard2.0\Smpp.Net.Client.csproj.CopyComplete
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\obj\Release\netstandard2.0\JamaaTech.Smpp.Net.Client.dll
+D:\mystuff\dotnetcore\bcoring\JamaaTech.Smpp.Net.Client\obj\Release\netstandard2.0\JamaaTech.Smpp.Net.Client.pdb

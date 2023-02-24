@@ -1,0 +1,3 @@
+D:\mystuff\dotnetcore\bcoring\WinTestSMSApp\obj\Release\WinTestSMSApp.csproj.CoreCompileInputs.cache
+D:\mystuff\dotnetcore\bcoring\WinTestSMSApp\obj\Release\WinTestSMSApp.exe
+D:\mystuff\dotnetcore\bcoring\WinTestSMSApp\obj\Release\WinTestSMSApp.pdb

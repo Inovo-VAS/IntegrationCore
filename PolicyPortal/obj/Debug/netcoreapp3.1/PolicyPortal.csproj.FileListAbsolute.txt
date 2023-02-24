@@ -1,0 +1,10 @@
+C:\GitHub\IntegrationCore\PolicyPortal\bin\Debug\netcoreapp3.1\PolicyPortal.deps.json
+C:\GitHub\IntegrationCore\PolicyPortal\bin\Debug\netcoreapp3.1\PolicyPortal.dll
+C:\GitHub\IntegrationCore\PolicyPortal\bin\Debug\netcoreapp3.1\PolicyPortal.pdb
+C:\GitHub\IntegrationCore\PolicyPortal\obj\Debug\netcoreapp3.1\PolicyPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\IntegrationCore\PolicyPortal\obj\Debug\netcoreapp3.1\PolicyPortal.AssemblyInfoInputs.cache
+C:\GitHub\IntegrationCore\PolicyPortal\obj\Debug\netcoreapp3.1\PolicyPortal.AssemblyInfo.cs
+C:\GitHub\IntegrationCore\PolicyPortal\obj\Debug\netcoreapp3.1\PolicyPortal.csproj.CoreCompileInputs.cache
+C:\GitHub\IntegrationCore\PolicyPortal\obj\Debug\netcoreapp3.1\PolicyPortal.dll
+C:\GitHub\IntegrationCore\PolicyPortal\obj\Debug\netcoreapp3.1\PolicyPortal.pdb
+C:\GitHub\IntegrationCore\PolicyPortal\obj\Debug\netcoreapp3.1\PolicyPortal.csproj.AssemblyReference.cache

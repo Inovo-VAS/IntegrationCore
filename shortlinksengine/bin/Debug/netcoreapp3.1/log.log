@@ -1,0 +1,5 @@
+I:ENV Root:D:/mystuff/dotnetcore/bcoring/shortlinksengine/bin/Debug/netcoreapp3.1/
+I:Loading:/shortlinksengine.conf.js
+I:RegisterDbConnection:shortlinkengine
+I:RegisterDbConnection:registered->shortlinkengine
+I:Loaded:/shortlinksengine.conf.js

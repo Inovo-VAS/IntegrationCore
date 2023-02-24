@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\mystuff\dotnetcore\bcoring\chatparameters\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2021-06-30T07:51:30.4246812Z;True|2021-06-18T11:34:16.8160944+02:00;True|2021-06-18T11:04:00.2314632+02:00;True|2021-06-18T10:45:05.4678369+02:00;True|2021-06-18T10:39:44.0780646+02:00;True|2021-06-17T11:34:16.7916138+02:00;True|2021-06-15T14:26:47.5544612+02:00;True|2021-05-31T14:49:20.8472940+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/chatparameters.dll">
+      <publishTime>06/30/2021 09:51:29</publishTime>
+    </File>
+    <File Include="bin/chatparameters.pdb">
+      <publishTime>06/30/2021 09:51:29</publishTime>
+    </File>
+    <File Include="Handler.ashx">
+      <publishTime>06/11/2020 09:14:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/18/2021 11:04:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
